@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+
+}
+
+h1{
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    background-color: antiquewhite;
+    font-size: 15px;
+    color: goldenrod;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#status{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+
+}
